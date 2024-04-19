@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+4-Bit Full Adder and Subtractor with hardware trojan inserted in the critical path
 
 ## How to test
 
-Explain how to use your project
+Use DIP Switches, provide external input for last B input bit and hardware trojan trigger signal.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Pattern Generator and logic analyzer
